@@ -19,8 +19,14 @@ while True:
         
     elif choice == "2":
         total = 0
-        for entry in expense:
-            print(entry["item"], "-", entry["amount"])
-            total = total + entry["amount"]
+
+        if not expense:
+            print("No expenses recorded yet!")
+
+        else:
+            for entry in expense:
+                print(entry["item"], "-", entry["amount"])
+                total += entry["amount"]
+
             print("Total spent:", total)
                 
