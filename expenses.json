@@ -1,0 +1,102 @@
+[
+    {
+        "item": "metro ticket",
+        "category": "Other",
+        "amount": 40.0
+    },
+    {
+        "item": "pizza",
+        "category": "Food",
+        "amount": 120.0
+    },
+    {
+        "item": "cake",
+        "category": "Other",
+        "amount": 500.0
+    },
+    {
+        "item": "glasses",
+        "category": "Other",
+        "amount": 150.0
+    },
+    {
+        "item": "uber",
+        "category": "Travel",
+        "amount": 75.0
+    },
+    {
+        "item": "Train ticket",
+        "category": "Travel",
+        "amount": 60.0
+    },
+    {
+        "item": "shoes",
+        "category": "Shopping",
+        "amount": 1999.0
+    },
+    {
+        "item": "T-shirt",
+        "category": "Shopping",
+        "amount": 450.0
+    },
+    {
+        "item": "paneer",
+        "category": "Other",
+        "amount": 110.0,
+        "date": "2026-10-26"
+    },
+    {
+        "item": "watch",
+        "category": "Other",
+        "amount": 2999.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "juice",
+        "category": "Food",
+        "amount": 45.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "f",
+        "category": "Other",
+        "amount": 6.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "banana",
+        "category": "Fruit",
+        "amount": 60.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "Shubham",
+        "category": "Other",
+        "amount": 100.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "kurkure",
+        "category": "Food",
+        "amount": 10.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "Darshan",
+        "category": "Other",
+        "amount": 450.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "darshan",
+        "category": "Other",
+        "amount": 855.0,
+        "date": "2026-10-27"
+    },
+    {
+        "item": "shubham",
+        "category": "Other",
+        "amount": 15.0,
+        "date": "2026-10-27"
+    }
+]
