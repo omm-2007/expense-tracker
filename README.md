@@ -1,8 +1,5 @@
 # expense-tracker
-<<<<<<< HEAD
-# Expense Tracker
-=======
->>>>>>> 96523b29fcbb03fec277a7b4e451c4eac61f8bdb
+
 
 A simple Python-based expense tracker that allows users to record expenses, view spending, and calculate total expenditure through an interactive command-line interface.
 
@@ -19,7 +16,7 @@ A simple Python-based expense tracker that allows users to record expenses, view
 ### Run Locally
 
 ```bash
-python expense_tracker.py
+python tracker.py
 ```
 
 ### Author
