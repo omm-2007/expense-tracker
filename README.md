@@ -1,6 +1,5 @@
 # expense-tracker
 
-
 A simple Python-based expense tracker that allows users to record expenses, view spending, and calculate total expenditure through an interactive command-line interface.
 
 ### Features
